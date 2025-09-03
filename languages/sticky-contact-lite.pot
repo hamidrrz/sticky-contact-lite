@@ -1,0 +1,54 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sticky Contact Lite 1.1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Hamidreza Rezaei\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+
+msgid "Sticky Contact Lite"
+msgstr ""
+
+msgid "Sticky Contact"
+msgstr ""
+
+msgid "Phone number (tel:)"
+msgstr ""
+
+msgid "WhatsApp (number or wa.me/)"
+msgstr ""
+
+msgid "Show on mobile only"
+msgstr ""
+
+msgid "Auto-inject on all pages"
+msgstr ""
+
+msgid "Icons position"
+msgstr ""
+
+msgid "Example: +98912xxxxxxx"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "Shortcode:"
+msgstr ""
+
+msgid "Call"
+msgstr ""
+
+msgid "WhatsApp"
+msgstr ""

@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sticky Contact Lite 1.1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Hamidreza.rezaei\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+
+msgid "Sticky Contact Lite"
+msgstr "استیکی کانتکت لایت"
+
+msgid "Sticky Contact"
+msgstr "تماس سریع"
+
+msgid "Phone number (tel:)"
+msgstr "شماره تماس (tel:)"
+
+msgid "WhatsApp (number or wa.me/)"
+msgstr "واتساپ (شماره یا wa.me/)"
+
+msgid "Show on mobile only"
+msgstr "فقط در موبایل نمایش داده شود"
+
+msgid "Auto-inject on all pages"
+msgstr "اتوماتیک در همه صفحات اضافه شود"
+
+msgid "Icons position"
+msgstr "موقعیت آیکون‌ها"
+
+msgid "Example: +98912xxxxxxx"
+msgstr "مثال: ‎+98912xxxxxxx"
+
+msgid "Yes"
+msgstr "بله"
+
+msgid "Right"
+msgstr "راست"
+
+msgid "Left"
+msgstr "چپ"
+
+msgid "Shortcode:"
+msgstr "شورت‌کد:"
+
+msgid "Call"
+msgstr "تماس"
+
+msgid "WhatsApp"
+msgstr "واتساپ"
