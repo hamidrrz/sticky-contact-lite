@@ -1,0 +1,5 @@
+.sticcoli-wrap{position:fixed;bottom:16px;z-index:9999999;display:flex;gap:10px}
+.sticcoli-btn{display:inline-flex;align-items:center;justify-content:center;width:48px;height:48px;border-radius:999px;background:#111;color:#fff;text-decoration:none;box-shadow:0 6px 20px rgba(0,0,0,.2);font-size:22px}
+.sticcoli-btn:hover{opacity:.9}
+.sticcoli-call{background:#111}
+.sticcoli-wa{background:#25D366}
